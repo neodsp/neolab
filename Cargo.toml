@@ -1,0 +1,13 @@
+[package]
+name = "neolab"
+version = "0.0.1"
+edition = "2021"
+authors = ["Stephan Eckes <stephan@neodsp.com>"]
+description = "neolab is a framework for audio research"
+repository = "https://github.com/neodsp/neolab"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["neodsp", "audio", "dsp", "research"]
+categories = ["multimedia::audio", "science"]
+
+[dependencies]
